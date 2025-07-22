@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/Code/Code.md",
+                "file": "HTB/Code/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Code"
+              "title": "README"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTB/Code/Code.md",
+                "file": "HTB/Code/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Code"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTB/Code/Code.md",
+                "file": "HTB/Code/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Code"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTB/Code/Code.md",
+                "file": "HTB/Code/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Code"
+              "title": "Outline of README"
             }
           }
         ]
@@ -168,14 +168,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "266a950ba83080b6",
+  "active": "7c6f9abebd87f9b1",
   "lastOpenFiles": [
     "HTB/Code/screenshot_6.png",
     "HTB/Code/screenshot_4.png",
     "HTB/Code/screenshot_3.png",
     "HTB/Code/screenshot_2.png",
     "HTB/Code/screenshot_1.png",
-    "HTB/Code/Code.md",
+    "HTB/Code/README.md",
     "HTB/Code",
     "HTB/Code/screenshot_7.png",
     "HTB/Code/screenshot_5.png",

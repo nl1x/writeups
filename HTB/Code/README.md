@@ -41,26 +41,26 @@ Nmap done: 1 IP address (1 host up) scanned in 7.40 seconds
 ```
 
 It looks like a HTTP server. Let's see the content of this website :
-![[screenshot_1.png]]
+![](screenshot_1.png)
 
 We can run python code in here. Let's try to cook a payload to run a reverse-shell.
 
 ## Reverse-shell
 
 We can first try to make a basic reverse-shell by importing the module "os" :
-![[screenshot_2.png]]
+![](screenshot_2.png)
 
 Looks like we can't import the os module... Let's try with another simple module :
-![[screenshot_3.png]]
+![](screenshot_3.png)
 
 We can't import any module. Let's try to import them using the `__import__` builtin function :
-![[screenshot_4.png]]
+![](screenshot_4.png)
 
 It still fail. Let's try a little python trick. We will use the `globals()` function to get all the global symbol table, which contains the `__import__` function in the `__builtins__` table :
-![[screenshot_5.png]]
+![](screenshot_5.png)
 
 It still detect the `import` keyword, except if we split the word into 2 strings :
-![[screenshot_6.png]]
+![](screenshot_6.png)
 
 Perfect ! Let's make a reverse-shell using this. To bypass all banned words, we will use the module "subprocess" which can run bash commands using the `check_output` function :
 ```
@@ -96,7 +96,7 @@ database.db
 ```
 
 By opening this file in the SQL Viewer Online website, we can select all the users and find the user Martin, which is also a user on the machine :
-![[screenshot_7.png]]
+![](screenshot_7.png)
 
 We can crack his password using hashcat :
 ```bash
