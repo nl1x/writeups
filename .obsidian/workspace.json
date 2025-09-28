@@ -8,7 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "266a950ba83080b6",
+            "id": "4e19c0935a9235aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTB/Headless/README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "904e986dbb277bd3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -160,6 +174,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -168,19 +183,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c6f9abebd87f9b1",
+  "active": "4e19c0935a9235aa",
   "lastOpenFiles": [
-    "HTB/Code/screenshot_6.png",
-    "HTB/Code/screenshot_4.png",
-    "HTB/Code/screenshot_3.png",
-    "HTB/Code/screenshot_2.png",
-    "HTB/Code/screenshot_1.png",
+    "HTB/Headless/assets/screenshot_6.png",
+    "HTB/Headless/assets/screenshot_5.png",
+    "HTB/Headless/assets/screenshot_4.png",
+    "HTB/Headless/assets/screenshot_3.png",
+    "HTB/Headless/assets/screenshot_2.png",
+    "HTB/Headless/assets/screenshot_1.png",
     "HTB/Code/README.md",
+    "HTB/Headless/README.md",
+    "HTB/Headless/assets",
+    "HTB/Headless",
+    "HTB/ExpressWay/assets",
+    "HTB/ExpressWay",
+    "HTB/Cap/README.md",
+    "HTB/Cap/assets/screenshot_5.png",
+    "HTB/Cap/assets/screenshot_4.png",
+    "HTB/Cap/assets/screenshot_3.png",
+    "HTB/Cap/assets/screenshot_2.png",
+    "HTB/Cap/assets/screenshot_1.png",
+    "HTB/Cap/assets",
+    "HTB/Cap",
     "HTB/Code",
-    "HTB/Code/screenshot_7.png",
-    "HTB/Code/screenshot_5.png",
-    "Pasted image 20250722051524.png",
-    "Pasted image 20250722051458.png",
     "HTB/Code",
     "HTB"
   ]

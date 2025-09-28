@@ -41,7 +41,7 @@ Nmap done: 1 IP address (1 host up) scanned in 7.40 seconds
 ```
 
 It looks like a HTTP server. Let's see the content of this website :
-![](screenshot_1.png)
+![](HTB/Code/screenshot_1.png)
 
 We can run python code in here. Let's try to cook a payload to run a reverse-shell.
 
