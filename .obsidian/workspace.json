@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/BoardLight/README.md",
+                "file": "HTB/PermX/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -186,20 +186,23 @@
   },
   "active": "9e3eb020d3457931",
   "lastOpenFiles": [
-    "HTB/BoardLight/assets/screenshot_13.png",
-    "HTB/BoardLight/assets/screenshot_12.png",
-    "HTB/BoardLight/assets/screenshot_11.png",
-    "HTB/BoardLight/assets/screenshot_10.png",
-    "HTB/BoardLight/assets/screenshot_9.png",
-    "HTB/BoardLight/assets/screenshot_8.png",
-    "HTB/BoardLight/assets/screenshot_7.png",
-    "HTB/BoardLight/assets/screenshot_6.png",
-    "HTB/BoardLight/assets/screenshot_5.png",
-    "HTB/BoardLight/assets/screenshot_4.png",
-    "HTB/BoardLight/assets/screenshot_3.png",
-    "HTB/BoardLight/assets",
+    "HTB/PermX/assets/screenshot_13.png",
+    "HTB/PermX/assets/screenshot_12.png",
+    "HTB/PermX/assets/screenshot_11.png",
+    "HTB/PermX/assets/screenshot_10.png",
+    "HTB/PermX/assets/screenshot_9.png",
+    "HTB/PermX/assets/screenshot_8.png",
+    "HTB/PermX/assets/screenshot_7.png",
+    "HTB/PermX/assets/screenshot_6.png",
+    "HTB/PermX/assets/screenshot_5.png",
+    "HTB/PermX/assets/screenshot_4.png",
+    "HTB/PermX/assets/screenshot_3.png",
+    "HTB/PermX/assets",
     "HTB/Cap/README.md",
+    "HTB/PermX/README.md",
     "HTB/BoardLight/README.md",
+    "HTB/PermX",
+    "HTB/BoardLight/assets",
     "HTB/Code/README.md",
     "HTB/Headless/README.md",
     "HTB/BoardLight",
@@ -208,8 +211,6 @@
     "HTB/ExpressWay/assets",
     "HTB/ExpressWay",
     "HTB/Cap/assets",
-    "HTB/Cap",
-    "HTB/Code",
-    "HTB/Code"
+    "HTB/Cap"
   ]
 }
