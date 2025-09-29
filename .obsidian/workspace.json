@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/Cap/README.md",
+                "file": "HTB/Perfection/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/PermX/README.md",
+                "file": "HTB/Perfection/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -35,8 +35,7 @@
               "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,22 +183,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e3eb020d3457931",
+  "active": "4e19c0935a9235aa",
   "lastOpenFiles": [
+    "HTB/Perfection/assets/screenshot_9.png",
+    "HTB/Perfection/assets/screenshot_8.png",
+    "HTB/Perfection/assets/screenshot_7.png",
+    "HTB/Perfection/assets/screenshot_6.png",
+    "HTB/Perfection/assets/screenshot_5.png",
+    "HTB/Perfection/assets/screenshot_4.png",
+    "HTB/Perfection/assets/screenshot_3.png",
+    "HTB/Perfection/assets/screenshot_2.png",
+    "HTB/Perfection/assets/screenshot_1.png",
+    "HTB/Perfection/assets",
+    "HTB/PermX/README.md",
+    "HTB/Cap/README.md",
+    "HTB/Perfection/README.md",
+    "HTB/Perfection",
     "HTB/PermX/assets/screenshot_13.png",
     "HTB/PermX/assets/screenshot_12.png",
-    "HTB/PermX/assets/screenshot_11.png",
-    "HTB/PermX/assets/screenshot_10.png",
-    "HTB/PermX/assets/screenshot_9.png",
-    "HTB/PermX/assets/screenshot_8.png",
-    "HTB/PermX/assets/screenshot_7.png",
-    "HTB/PermX/assets/screenshot_6.png",
-    "HTB/PermX/assets/screenshot_5.png",
-    "HTB/PermX/assets/screenshot_4.png",
-    "HTB/PermX/assets/screenshot_3.png",
     "HTB/PermX/assets",
-    "HTB/Cap/README.md",
-    "HTB/PermX/README.md",
     "HTB/BoardLight/README.md",
     "HTB/PermX",
     "HTB/BoardLight/assets",
@@ -209,8 +211,6 @@
     "HTB/Headless/assets",
     "HTB/Headless",
     "HTB/ExpressWay/assets",
-    "HTB/ExpressWay",
-    "HTB/Cap/assets",
-    "HTB/Cap"
+    "HTB/ExpressWay"
   ]
 }
