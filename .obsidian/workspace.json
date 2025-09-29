@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/Headless/README.md",
+                "file": "HTB/Cap/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "904e986dbb277bd3",
+            "id": "9e3eb020d3457931",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/Code/README.md",
+                "file": "HTB/BoardLight/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -35,7 +35,8 @@
               "title": "README"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,30 +184,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e19c0935a9235aa",
+  "active": "9e3eb020d3457931",
   "lastOpenFiles": [
-    "HTB/Headless/assets/screenshot_6.png",
-    "HTB/Headless/assets/screenshot_5.png",
-    "HTB/Headless/assets/screenshot_4.png",
-    "HTB/Headless/assets/screenshot_3.png",
-    "HTB/Headless/assets/screenshot_2.png",
-    "HTB/Headless/assets/screenshot_1.png",
+    "HTB/BoardLight/assets/screenshot_13.png",
+    "HTB/BoardLight/assets/screenshot_12.png",
+    "HTB/BoardLight/assets/screenshot_11.png",
+    "HTB/BoardLight/assets/screenshot_10.png",
+    "HTB/BoardLight/assets/screenshot_9.png",
+    "HTB/BoardLight/assets/screenshot_8.png",
+    "HTB/BoardLight/assets/screenshot_7.png",
+    "HTB/BoardLight/assets/screenshot_6.png",
+    "HTB/BoardLight/assets/screenshot_5.png",
+    "HTB/BoardLight/assets/screenshot_4.png",
+    "HTB/BoardLight/assets/screenshot_3.png",
+    "HTB/BoardLight/assets",
+    "HTB/Cap/README.md",
+    "HTB/BoardLight/README.md",
     "HTB/Code/README.md",
     "HTB/Headless/README.md",
+    "HTB/BoardLight",
     "HTB/Headless/assets",
     "HTB/Headless",
     "HTB/ExpressWay/assets",
     "HTB/ExpressWay",
-    "HTB/Cap/README.md",
-    "HTB/Cap/assets/screenshot_5.png",
-    "HTB/Cap/assets/screenshot_4.png",
-    "HTB/Cap/assets/screenshot_3.png",
-    "HTB/Cap/assets/screenshot_2.png",
-    "HTB/Cap/assets/screenshot_1.png",
     "HTB/Cap/assets",
     "HTB/Cap",
     "HTB/Code",
-    "HTB/Code",
-    "HTB"
+    "HTB/Code"
   ]
 }
