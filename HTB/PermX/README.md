@@ -13,6 +13,9 @@ I found an HTTP server which redirect me to `http://permx.htb` :
 I add it to my `/etc/hosts` file and go back to the website :
 ![Untitled](assets/screenshot_3.png)
 
+## Step 2  - Exploit
+
+#### Flag user.txt
 I search for subdomains using `ffuf` and found the subdomain `lms` :
 ![Untitled](assets/screenshot_4.png)
 
@@ -34,7 +37,6 @@ I search for a user in the `/home` directory and find the user `mtz`. I try to l
 
 And I can finally get the `user.txt` flag.
 #### Flag root.txt
-
 I execute the command `sudo -l` to see what command I can execute without password and find a script :
 ![Untitled](assets/screenshot_11.png)
 ![Untitled](assets/screenshot_12.png)
